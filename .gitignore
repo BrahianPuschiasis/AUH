@@ -1,0 +1,7 @@
+.vs/
+# Carpeta bin generada por compilación
+bin/
+
+# Carpeta obj generada por compilación
+obj/
+b/
